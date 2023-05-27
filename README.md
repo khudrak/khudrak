@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khudrak
+- 👋 Hi All, I’m @khudrak
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning both Defensive & Offensive 
 - 💞️ I’m looking to collaborate on ...
